@@ -20,5 +20,6 @@ assignees: ''
 ```gherkin
 Given [some context]
 When [certain action is taken]
+And [certain extra actions are taken] (optional)
 Then [the outcome of action is observed]
 ```
